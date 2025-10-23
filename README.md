@@ -52,6 +52,11 @@ or
 # Shell wrapper
 bash train.sh
 ```
+Key Arguments:
+-base_model_name, -pruned_model_path, -num_train_samples, -spec_task
+
+Key Parameters:
+-lr (1e-3 to 1e-5), -num_epoch, -use_topk_heads
 
 ---
 
@@ -77,6 +82,7 @@ We include **2k Alpaca** samples due to repository size limits. This subset yiel
 
 
 ## Citation
+Please contact me via feng0119 AT e.ntu.edu.sg if you have any questions.
 
 If you find this work useful, please cite:
 
