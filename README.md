@@ -82,7 +82,7 @@ We include **2k Alpaca** samples due to repository size limits. This subset yiel
 
 
 ## Citation
-Please contact me via feng0119 AT e.ntu.edu.sg if you have any questions.
+Please contact me via **feng0119 AT e.ntu.edu.sg** if you have any questions.
 
 If you find this work useful, please cite:
 
